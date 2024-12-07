@@ -18,7 +18,7 @@
     <style>
         .task:hover {
             box-shadow: 8px 1px 8px 1px rgb(197, 197, 197);
-            border: 2px rgb(196, 196, 196);
+            border: 2px rgb(237, 57, 57);
             border-radius: 3px;
 
         }
